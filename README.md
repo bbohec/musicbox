@@ -10,6 +10,13 @@ Goal
 - Virtual Orchestra
 
 
+How to install ?
+-----------------
+`npm install`
+
+`npm run dev`
+
+
 Tech
 -----------
 
